@@ -1,0 +1,15 @@
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\ca_依赖注入.exe.config
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\ca_依赖注入.exe
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\ca_依赖注入.pdb
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.dll
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.xml
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\obj\Debug\ca_依赖注入.csprojResolveAssemblyReference.cache
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\obj\Debug\ca_依赖注入.exe
+G:\zsb\Code\vs2017\ca_依赖注入\ca_依赖注入\obj\Debug\ca_依赖注入.pdb
